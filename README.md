@@ -1,6 +1,6 @@
-============================================
+===============================
 ENGLISH
-============================================
+===============================
 
 DEPENDENCY :
 1. PYTHON is required to run the bat file. 
@@ -14,9 +14,9 @@ Inside the WEBGL folder, execute "run.bat" to execute the local file on browser.
 CONTROL :
 Use your point finger to move the Player Pad across the screen or use WASD to move the Player Pad
 
-============================================
+===============================
 JAPANESE | 日本語
-============================================
+===============================
 
 依存関係：
 
